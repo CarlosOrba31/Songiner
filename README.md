@@ -35,6 +35,6 @@ Este proyecto se encuentra bajo la licencia Creative Commons. Puedes utilizar, m
 
 ¡Gracias por visitar Songiner!
 
-¡Esperamos que disfrutes de la música! Si tienes alguna sugerencia o encuentras algún problema, no dudes en abrir issue en GitHub.
+Si tienes alguna sugerencia o encuentras algún problema, no dudes en abrir issue en GitHub.
 
 Mantente atualizado para más y mejor! 🎶✨

@@ -1,3 +1,10 @@
+body{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden
+}
+
 h1,h2,h3,p,a{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -19,6 +26,8 @@ header{
 
 .flow{
     padding-left: 20px;
+    font-size: large;
+    color: rgb(11, 197, 26);
 }
 
 nav{
@@ -33,7 +42,10 @@ nav{
 
 .audio{
     display: flex;
+    width: 100%;
     height: 60vh;
+    margin: 0;
+    padding: 0;
     justify-content: center;
     align-items: center;
     background-image : linear-gradient(
@@ -42,6 +54,18 @@ nav{
         rgba(0,0,0,0.5)
     )
     ,url(/media/bad-gyal-flow-2000-nuevo-single-videoclip-01.jpg);
+    background-size: contain;
+}
+
+.tumami{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tumami h1{
+    font-size: 5em;
+    color: white;
 }
 
 .letra{

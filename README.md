@@ -17,15 +17,16 @@
 - Se irá mejorando y actualizando a medida que yo vaya adquieriendo más conocimientos en programación. 💪
 
 ## 📚 Futuras mejoras
- - En el futuro se agregarán nuevas mejoras
- - También se agregarán muchisimas más canciones
+ - Se agregaran nuevas fuentes de música consiguiendo de esta manera que el usuario tenga acesso a más música
+ - Nueva estética con un mejor aspecto para facilitar la experiencia al usuario
+ - Introducción de un sistema que permitirá recomendar al usuario música acorde a sus gustos
 
 ## 🔧 Tecnologías utilizadas
 
 Este proyecto ha sido desarrollado utilizando las siguientes tecnologías:
 
 - HTML 🌐
-- CSS 🎨
+- CSS  🎨
 
 ## 📜 Licencia
 
@@ -33,7 +34,7 @@ Este proyecto se encuentra bajo la licencia Creative Commons. Puedes utilizar, m
 
 ## 🎧 ¡Visita Songiner y disfruta de la música!
 
-¡Gracias por visitar Songiner!
+¡Gracias por regalarte un poco de tu tiempo para conocer este interesante proyecto!
 
 Si tienes alguna sugerencia o encuentras algún problema, no dudes en abrir issue en GitHub.
 
